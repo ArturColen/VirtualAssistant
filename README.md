@@ -5,7 +5,7 @@ Project developed through a video lesson from [Digital Innovation One](https://w
 The main function of this project is to make the virtual assistant perform some simple functions, such as typing what the user said, opening Google Chrome and Excel.
 
 # 💻 Technologies and techniques used 
-* `Python:` Activate the device's microphone, understand what the user said, and perform the actions
+* `Python with Speech Recognition and OS:` Activate the device's microphone, understand what the user said, and perform the actions
 
 # 📁 Project access
 You can [access the source code](https://github.com/ArturColen/VirtualAssistant).
