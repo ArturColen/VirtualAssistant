@@ -8,4 +8,4 @@ The main function of this project is to make the virtual assistant perform some 
 * `Python with Speech Recognition and OS:` Activate the device's microphone, understand what the user said, and perform the actions
 
 # 📁 Project access
-You can [access the source code](https://github.com/ArturColen/VirtualAssistant).
+You can [access the source code](https://github.com/ArturColen/VirtualAssistant/).
