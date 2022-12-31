@@ -4,7 +4,7 @@ print('Testando...')
 import speech_recognition as sr
 import os
 
-# Function to hear and recognize speech
+# Hear and recognize speech
 def listen_microphone():
     # Enable the user's microphone
     microphone = sr.Recognizer()
