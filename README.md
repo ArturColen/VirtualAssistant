@@ -1,4 +1,4 @@
-# Creating a virtual assistant with Python
+# Virtual assistant 
 Project developed through a video lesson from [Digital Innovation One](https://www.dio.me/) with the goal of introducing knowledge about IoT and Machine Learning. For this, a virtual assistant was created using the Python programming language, along with the OS and Speech Recognition libraries.
 
 # 🔨 Project functionality
