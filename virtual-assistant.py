@@ -6,18 +6,14 @@ import os
 
 # Hear and recognize speech
 def listen_microphone():
-    # Enable the user's microphone
     microphone = sr.Recognizer()
 
-    # Use Microphone
     with sr.Microphone() as source:
         # Call an algorithm for noise reduction in sound
         microphone.adjust_for_ambient_noise(source)
 
-        # Phrase for the user to say something
         print('Diga alguma coisa: ')
 
-        # Store what the user said in a variable
         audio = microphone.listen(source)
 
     try:
