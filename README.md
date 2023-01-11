@@ -4,7 +4,7 @@ Project developed through a video lesson from [Digital Innovation One](https://w
 ## 🔨 Project functionality
 The main function of this project is to make the virtual assistant perform some simple functions, such as typing what the user said, opening Google Chrome and Excel.
 
-## 💻 Technologies and techniques used 
+## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Speech Recognition](https://pypi.org/project/SpeechRecognition/): voice recognition
 * [OS](https://docs.python.org/pt-br/3.7/library/os.html): use features that are operating system-dependent
