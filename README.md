@@ -5,12 +5,12 @@ Project developed through a video lesson from [Digital Innovation One](https://w
 The main function of this project is to make the virtual assistant perform some simple functions, such as typing what the user said, opening Google Chrome and Excel.
 
 ## 💻 Technologies and techniques used 
-* [Python](https://www.python.org/): programming language
+* [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Speech Recognition](https://pypi.org/project/SpeechRecognition/): voice recognition
 * [OS](https://docs.python.org/pt-br/3.7/library/os.html): use features that are operating system-dependent
 
 ## 📁 Access and execute project
-### 1. Install [Python](https://www.python.org/) on your computer
+### 1. Install [Python](https://www.python.org/downloads/) on your computer
 
 ### 2. Clone [this repository](https://github.com/ArturColen/VirtualAssistant) on your machine
 * Create a folder on your computer for this program
