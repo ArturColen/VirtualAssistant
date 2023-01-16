@@ -1,6 +1,5 @@
 print('Testando...')
 
-# Import libraries
 import speech_recognition as sr
 import os
 
